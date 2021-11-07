@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aldinoooop
+- 👋 Hi, I’m Aldino Arya Pramana
 - 👀 I’m interested in arduino project,iot,ai,machine learning, and app/web development
 - 🌱 I’m currently learning c,python and other programming language
 - 💞️ I’m looking to collaborate on grup belajar programing
